@@ -1,0 +1,1 @@
+<h1>Capture Plot</h1>
